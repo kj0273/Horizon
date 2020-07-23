@@ -1,0 +1,233 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Interop.SolidEdge/220.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Interop.SolidEdge.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Interop.SolidEdge.dll": {}
+        }
+      },
+      "SolidEdge.Community/219.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/SolidEdge.Community.dll": {}
+        },
+        "runtime": {
+          "lib/net45/SolidEdge.Community.dll": {}
+        }
+      },
+      "SolidEdge.Community.AddIn/219.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SolidEdge.Community.AddIn.dll": {}
+        },
+        "runtime": {
+          "lib/net40/SolidEdge.Community.AddIn.dll": {}
+        },
+        "build": {
+          "build/net40/SolidEdge.Community.AddIn.targets": {}
+        }
+      },
+      "SolidEdge.Community.Reader/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/SolidEdge.Community.Reader.dll": {}
+        },
+        "runtime": {
+          "lib/net40/SolidEdge.Community.Reader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interop.SolidEdge/220.2.0": {
+      "sha512": "bTYHeK3gUttKs4ncd4HYJ3nUE1AIHU6yHbgrjJR9DZqcNoY4Gs++U0E4v1GhGvA/q/SJkuXag/IYZkn/2AWFLQ==",
+      "type": "package",
+      "path": "interop.solidedge/220.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "interop.solidedge.220.2.0.nupkg.sha512",
+        "interop.solidedge.nuspec",
+        "lib/net40/Interop.SolidEdge.dll",
+        "lib/net40/Interop.SolidEdge.xml",
+        "lib/net45/Interop.SolidEdge.dll",
+        "lib/net45/Interop.SolidEdge.xml"
+      ]
+    },
+    "SolidEdge.Community/219.0.0": {
+      "sha512": "80e5tYZQ9zVYnd82GjAGJZ4FDrw5/B2sLFD2jnMMN1RAp2INRGmBsmZmtk9AFD6Ps4sYNYuwqw1ft2Ukd+uSoA==",
+      "type": "package",
+      "path": "solidedge.community/219.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/SolidEdge.Community.dll",
+        "lib/net40/SolidEdge.Community.xml",
+        "lib/net45/SolidEdge.Community.dll",
+        "lib/net45/SolidEdge.Community.xml",
+        "solidedge.community.219.0.0.nupkg.sha512",
+        "solidedge.community.nuspec"
+      ]
+    },
+    "SolidEdge.Community.AddIn/219.0.0": {
+      "sha512": "ivjJvBB/NJbcQnKDs9equPeZhW/26qLEM40xj8JWK22fSaI/dlUWwnHwDg5uvzy9WI2eXU+u3eex0lbWE0WZBw==",
+      "type": "package",
+      "path": "solidedge.community.addin/219.0.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net40/SolidEdge.Community.AddIn.targets",
+        "lib/net40/SolidEdge.Community.AddIn.dll",
+        "lib/net40/SolidEdge.Community.AddIn.xml",
+        "solidedge.community.addin.219.0.0.nupkg.sha512",
+        "solidedge.community.addin.nuspec",
+        "tools/Ribbon.xsd",
+        "tools/SolidEdge.Community.AddIn.psm1",
+        "tools/init.ps1",
+        "tools/net40/EmbedNativeResources.exe"
+      ]
+    },
+    "SolidEdge.Community.Reader/2.0.0": {
+      "sha512": "OgczOtcmiyzp266pbBgkH6oY6Zn8tNZrERU181JaaA6huezhbOGwKa3RA8oOF1p2vSkbLFvO6nHP6e/J+GHRxA==",
+      "type": "package",
+      "path": "solidedge.community.reader/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/SolidEdge.Community.Reader.dll",
+        "lib/net40/SolidEdge.Community.Reader.xml",
+        "solidedge.community.reader.2.0.0.nupkg.sha512",
+        "solidedge.community.reader.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Interop.SolidEdge >= 220.2.0",
+      "SolidEdge.Community >= 219.0.0",
+      "SolidEdge.Community.AddIn >= 219.0.0",
+      "SolidEdge.Community.Reader >= 2.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\win10-20200715\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\win10-20200715\\Documents\\GitHub\\Horzion\\program2\\program2.csproj",
+      "projectName": "program2",
+      "projectPath": "C:\\Users\\win10-20200715\\Documents\\GitHub\\Horzion\\program2\\program2.csproj",
+      "packagesPath": "C:\\Users\\win10-20200715\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\win10-20200715\\Documents\\GitHub\\Horzion\\program2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\win10-20200715\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Interop.SolidEdge": {
+            "target": "Package",
+            "version": "[220.2.0, )"
+          },
+          "SolidEdge.Community": {
+            "target": "Package",
+            "version": "[219.0.0, )"
+          },
+          "SolidEdge.Community.AddIn": {
+            "target": "Package",
+            "version": "[219.0.0, )"
+          },
+          "SolidEdge.Community.Reader": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 '.NETCoreApp,Version=v3.1' 還原了套件 'Interop.SolidEdge 220.2.0'。此套件與您的專案並非完全相容。",
+      "libraryId": "Interop.SolidEdge",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 '.NETCoreApp,Version=v3.1' 還原了套件 'SolidEdge.Community 219.0.0'。此套件與您的專案並非完全相容。",
+      "libraryId": "SolidEdge.Community",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 '.NETCoreApp,Version=v3.1' 還原了套件 'SolidEdge.Community.AddIn 219.0.0'。此套件與您的專案並非完全相容。",
+      "libraryId": "SolidEdge.Community.AddIn",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 '.NETCoreApp,Version=v3.1' 還原了套件 'SolidEdge.Community.Reader 2.0.0'。此套件與您的專案並非完全相容。",
+      "libraryId": "SolidEdge.Community.Reader",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "dgSpecHash": "SaL9iXyFqfsAPBpcFbLO5YBAJrsF/MyUg6PXpu9OPHMumwQoozIW72mYVPjLLep4kpzJXlXSxEFSnoU/0Xlf3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\win10-20200715\\Documents\\GitHub\\Horzion\\program2\\program2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\win10-20200715\\.nuget\\packages\\interop.solidedge\\220.2.0\\interop.solidedge.220.2.0.nupkg.sha512",
+    "C:\\Users\\win10-20200715\\.nuget\\packages\\solidedge.community\\219.0.0\\solidedge.community.219.0.0.nupkg.sha512",
+    "C:\\Users\\win10-20200715\\.nuget\\packages\\solidedge.community.addin\\219.0.0\\solidedge.community.addin.219.0.0.nupkg.sha512",
+    "C:\\Users\\win10-20200715\\.nuget\\packages\\solidedge.community.reader\\2.0.0\\solidedge.community.reader.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 '.NETCoreApp,Version=v3.1' 還原了套件 'Interop.SolidEdge 220.2.0'。此套件與您的專案並非完全相容。",
+      "libraryId": "Interop.SolidEdge",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 '.NETCoreApp,Version=v3.1' 還原了套件 'SolidEdge.Community 219.0.0'。此套件與您的專案並非完全相容。",
+      "libraryId": "SolidEdge.Community",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 '.NETCoreApp,Version=v3.1' 還原了套件 'SolidEdge.Community.AddIn 219.0.0'。此套件與您的專案並非完全相容。",
+      "libraryId": "SolidEdge.Community.AddIn",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' 而非專案目標架構 '.NETCoreApp,Version=v3.1' 還原了套件 'SolidEdge.Community.Reader 2.0.0'。此套件與您的專案並非完全相容。",
+      "libraryId": "SolidEdge.Community.Reader",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

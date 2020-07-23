@@ -1,0 +1,89 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "program2/1.0.0": {
+        "dependencies": {
+          "Interop.SolidEdge": "220.2.0",
+          "SolidEdge.Community": "219.0.0",
+          "SolidEdge.Community.AddIn": "219.0.0",
+          "SolidEdge.Community.Reader": "2.0.0"
+        },
+        "runtime": {
+          "program2.dll": {}
+        }
+      },
+      "Interop.SolidEdge/220.2.0": {
+        "runtime": {
+          "lib/net45/Interop.SolidEdge.dll": {
+            "assemblyVersion": "220.0.0.0",
+            "fileVersion": "220.2.0.0"
+          }
+        }
+      },
+      "SolidEdge.Community/219.0.0": {
+        "runtime": {
+          "lib/net45/SolidEdge.Community.dll": {
+            "assemblyVersion": "219.0.0.0",
+            "fileVersion": "219.0.0.0"
+          }
+        }
+      },
+      "SolidEdge.Community.AddIn/219.0.0": {
+        "runtime": {
+          "lib/net40/SolidEdge.Community.AddIn.dll": {
+            "assemblyVersion": "219.0.0.0",
+            "fileVersion": "219.0.0.0"
+          }
+        }
+      },
+      "SolidEdge.Community.Reader/2.0.0": {
+        "runtime": {
+          "lib/net40/SolidEdge.Community.Reader.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.SolidEdge/220.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bTYHeK3gUttKs4ncd4HYJ3nUE1AIHU6yHbgrjJR9DZqcNoY4Gs++U0E4v1GhGvA/q/SJkuXag/IYZkn/2AWFLQ==",
+      "path": "interop.solidedge/220.2.0",
+      "hashPath": "interop.solidedge.220.2.0.nupkg.sha512"
+    },
+    "SolidEdge.Community/219.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-80e5tYZQ9zVYnd82GjAGJZ4FDrw5/B2sLFD2jnMMN1RAp2INRGmBsmZmtk9AFD6Ps4sYNYuwqw1ft2Ukd+uSoA==",
+      "path": "solidedge.community/219.0.0",
+      "hashPath": "solidedge.community.219.0.0.nupkg.sha512"
+    },
+    "SolidEdge.Community.AddIn/219.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ivjJvBB/NJbcQnKDs9equPeZhW/26qLEM40xj8JWK22fSaI/dlUWwnHwDg5uvzy9WI2eXU+u3eex0lbWE0WZBw==",
+      "path": "solidedge.community.addin/219.0.0",
+      "hashPath": "solidedge.community.addin.219.0.0.nupkg.sha512"
+    },
+    "SolidEdge.Community.Reader/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OgczOtcmiyzp266pbBgkH6oY6Zn8tNZrERU181JaaA6huezhbOGwKa3RA8oOF1p2vSkbLFvO6nHP6e/J+GHRxA==",
+      "path": "solidedge.community.reader/2.0.0",
+      "hashPath": "solidedge.community.reader.2.0.0.nupkg.sha512"
+    }
+  }
+}
