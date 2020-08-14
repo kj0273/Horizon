@@ -1,45 +1,32 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using SolidEdgeFramework;
-using SolidEdgePart;
-using SolidEdgeCommunity;
+using System.Runtime.InteropServices;
 
-namespace program2
+namespace SolidEdge.SDK
 {
     class Program
     {
+        [STAThread]
         static void Main(string[] args)
         {
-            SolidEdgeFramework.Application setApplication = null;
-            SolidEdgeFramework.Documents setDocuments = null;
-            SolidEdgePart.PartDocument setPartDocument = null;
+            SolidEdgeFramework.Application application = null;
+            Type type = null;
 
             try
             {
-                //the task start here
-                setApplication = SolidEdgeCommunity.SolidEdgeUtils.Connect(true);
 
-                //obtain the reference with Documents
-                setDocuments = setApplication.Documents;
+                // Get the type from the Solid Edge ProgID
+                type = Type.GetTypeFromProgID("SolidEdge.Application");
 
-                //create a new document
-                setPartDocument = (PartDocument)setDocuments.Add("SolidEdge.PartDocument");
+                // Start Solid Edge
+                application = (SolidEdgeFramework.Application)
+                Activator.CreateInstance(type);
+
+                // Make Solid Edge visible
+                application.Visible = true;
             }
-            catch (Exception e)
+            catch (System.Exception ex)
             {
-                Console.WriteLine(e.Message);
-                throw;
-            }
-            finally
-            {
-                //insert the obj in reverse
-                setPartDocument = null;
-                setDocuments = null;
-                setApplication = null;
-
+                Console.WriteLine(ex.Message);
             }
         }
     }
