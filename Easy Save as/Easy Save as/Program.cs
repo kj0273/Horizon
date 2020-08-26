@@ -92,6 +92,8 @@ namespace Easy_Save_as
             catch (System.Exception ex)
             {
                 Console.WriteLine(ex);
+                Console.WriteLine("Can't find the file, press anything to continue");
+                Console.ReadLine();
             }
             finally
             {
