@@ -1,0 +1,21 @@
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Interop.SolidEdge.dll
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\SolidEdge.Community.AddIn.dll
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\SolidEdge.Community.dll
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\SolidEdge.Community.Reader.dll
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Interop.SolidEdge.xml
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\SolidEdge.Community.xml
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\SolidEdge.Community.AddIn.xml
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\SolidEdge.Community.Reader.xml
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\custom Save As.exe.config
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\custom Save As.exe
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\custom Save As.pdb
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\custom Save As.exe
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\custom Save As.pdb
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\custom Save As.exe.manifest
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\custom Save As.application
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\custom Save As.TrustInfo.xml
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\custom Save As.exe.manifest
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\custom Save As.application
