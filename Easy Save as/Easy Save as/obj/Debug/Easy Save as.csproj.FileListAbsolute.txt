@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Easy Save as\Easy Save as\bin\Debug\Easy Save as.exe.config
+C:\Users\user\source\repos\Easy Save as\Easy Save as\bin\Debug\Easy Save as.exe
+C:\Users\user\source\repos\Easy Save as\Easy Save as\bin\Debug\Easy Save as.pdb
+C:\Users\user\source\repos\Easy Save as\Easy Save as\bin\Debug\Interop.SolidEdge.dll
+C:\Users\user\source\repos\Easy Save as\Easy Save as\bin\Debug\SolidEdge.Community.AddIn.dll
+C:\Users\user\source\repos\Easy Save as\Easy Save as\bin\Debug\SolidEdge.Community.dll
+C:\Users\user\source\repos\Easy Save as\Easy Save as\bin\Debug\SolidEdge.Community.Reader.dll
+C:\Users\user\source\repos\Easy Save as\Easy Save as\bin\Debug\Interop.SolidEdge.xml
+C:\Users\user\source\repos\Easy Save as\Easy Save as\bin\Debug\SolidEdge.Community.xml
+C:\Users\user\source\repos\Easy Save as\Easy Save as\bin\Debug\SolidEdge.Community.AddIn.xml
+C:\Users\user\source\repos\Easy Save as\Easy Save as\bin\Debug\SolidEdge.Community.Reader.xml
+C:\Users\user\source\repos\Easy Save as\Easy Save as\obj\Debug\Easy Save as.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Easy Save as\Easy Save as\obj\Debug\Easy Save as.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Easy Save as\Easy Save as\obj\Debug\Easy Save as.csproj.CopyComplete
+C:\Users\user\source\repos\Easy Save as\Easy Save as\obj\Debug\Easy Save as.exe
+C:\Users\user\source\repos\Easy Save as\Easy Save as\obj\Debug\Easy Save as.pdb
