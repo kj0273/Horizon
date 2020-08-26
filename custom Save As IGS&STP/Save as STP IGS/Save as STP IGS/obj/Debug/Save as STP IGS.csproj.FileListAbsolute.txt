@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\bin\Debug\Save as STP IGS.exe.config
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\bin\Debug\Save as STP IGS.exe
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\bin\Debug\Save as STP IGS.pdb
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\bin\Debug\Interop.SolidEdge.dll
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\bin\Debug\SolidEdge.Community.AddIn.dll
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\bin\Debug\SolidEdge.Community.dll
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\bin\Debug\SolidEdge.Community.Reader.dll
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\bin\Debug\Interop.SolidEdge.xml
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\bin\Debug\SolidEdge.Community.xml
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\bin\Debug\SolidEdge.Community.AddIn.xml
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\bin\Debug\SolidEdge.Community.Reader.xml
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\obj\Debug\Save as STP IGS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\obj\Debug\Save as STP IGS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\obj\Debug\Save as STP IGS.csproj.CopyComplete
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\obj\Debug\Save as STP IGS.exe
+C:\Users\user\source\repos\Save as STP IGS\Save as STP IGS\obj\Debug\Save as STP IGS.pdb

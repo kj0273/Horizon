@@ -1,0 +1,16 @@
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\bin\Release\@try.exe.config
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\bin\Release\@try.exe
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\bin\Release\@try.pdb
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\bin\Release\Interop.SolidEdge.dll
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\bin\Release\SolidEdge.Community.AddIn.dll
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\bin\Release\SolidEdge.Community.dll
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\bin\Release\SolidEdge.Community.Reader.dll
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\bin\Release\Interop.SolidEdge.xml
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\bin\Release\SolidEdge.Community.xml
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\bin\Release\SolidEdge.Community.AddIn.xml
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\bin\Release\SolidEdge.Community.Reader.xml
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\obj\Release\try.csprojAssemblyReference.cache
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\obj\Release\try.csproj.CoreCompileInputs.cache
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\obj\Release\try.csproj.CopyComplete
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\obj\Release\@try.exe
+C:\Users\win10-20200715\Documents\GitHub\Horzion\try\obj\Release\@try.pdb
