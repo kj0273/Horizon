@@ -1,5 +1,5 @@
 # Horzion
-program for Kwang An Enterprise
+program for Horizon Instrument
 
 This is a macro for SolidEdge.  
 It will check the the file type and save the file with new type  
