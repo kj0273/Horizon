@@ -1,5 +1,5 @@
 # Horzion
-program for Horizon Instrument
+program for Horizon instrument
 
 This is a macro for SolidEdge.  
 It will check the the file type and save the file with new type  
